@@ -108,18 +108,6 @@ body {
     margin-bottom: 10px;
 }
 
-@media screen and (max-width: 670px) {
-    .notes {
-        flex-direction: column-reverse;
-    }
-
-    .notes__sidebar {
-        width: 100%;
-        border-top: 2px solid #dddddd;
-        max-height: 300px;
-    }
-}
-
 /* Dark Mode Styles */
 .dark-mode {
     background-color: #333;
